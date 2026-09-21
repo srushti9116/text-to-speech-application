@@ -1,0 +1,12 @@
+tts-backend/tts-backend/generated-audio/
+tts-backend/tts-backend/tts-request.json
+tts-backend/tts-backend/target/
+tts-frontend/node_modules/
+tts-frontend/dist/
+.env
+.env.*
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
